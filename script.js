@@ -9,7 +9,7 @@ if(document.location.protocol=='http:'){
 
 $(function(){
     $("p").typed({
-        strings: ["Hey there.", "I'm Erik.", "I <a href='http://erikboesen.com/web'>make websites</a>.", "I take <a href='flickr.com/photos/108614122@N04'>photos</a>.", "I <a href='http://erikboesen.com/blog'>blog</a> things.", "More about me <a href='http://erikboesen.com'>here</a>."],
+        strings: ["Hey there.", "I'm Erik.", "I <a href='http://erikboesen.com/web'>make websites</a>.", "I take <a href='http://flickr.com/photos/108614122@N04'>photos</a>.", "I <a href='http://erikboesen.com/blog'>blog</a> things.", "More about me <a href='http://erikboesen.com'>here</a>."],
         typeSpeed: 100
     });
 });
